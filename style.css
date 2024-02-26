@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    margin: 0.5%; 
+}
+td h3{
+    margin: 2% 0;
+}
+a{
+    text-decoration: none;
+}
+td > img{
+    width: 35%;
+}
+td{
+    padding: 2%;
+}
+.prezzo{
+    color: crimson;
+}
+.comment_container{
+    margin: 2%;
+    width: 40%;
+    font-size: 1.6rem;
+}
+input{
+    margin: 2%;
+    width: 75%;
+    font-size: 1.2rem;
+}
+button{
+    width: 4em;
+}
+footer{
+    background-color: rgb(27, 27, 27);
+    color: antiquewhite;
+}
+footer p{
+    margin: 0 2%;
+}
+footer a{
+    color: antiquewhite;
+}
+footer span{
+    margin-right: 2%;
+}
+.visibilityImg{
+    display: none;
+}
